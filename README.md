@@ -145,7 +145,7 @@ color:#ffd700;
 <div class="container">
 
 <div class="profile-ring">
-<img src="IMG_3731.jpeg">
+<img src="Image42.JPG">
 </div>
 
 <h1>Lucky Cricket Trader</h1>
@@ -171,7 +171,7 @@ color:#ffd700;
 </div>
 </div>
 
-<a href="https://t.me/+MrCTiLP0rBs4ZGM1" class="join"
+<a href="https://t.me/+nbjUDaSfRtNlYjBl" class="join"
    onclick="fbq('trackCustom','TelegramJoin');">
 ᯓ➤ Join Telegram Channel
 </a>
