@@ -1,1 +1,1 @@
-Lucky Cricket Trader
+luckycricket.github.io
